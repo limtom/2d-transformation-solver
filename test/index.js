@@ -19,8 +19,9 @@ describe('#estimate2DTrafo', function() {
     var resultSet = {
       'tx': 1.0,
       'ty': 1.0,
-      'm': 0.0,
-      'alpha': 0.0
+      'm': 0.9999999999999991,
+      'alpha': -4.44089209850063e-16,
+      'stdDev': 7.444291678311382e-15
     }
     estimate2DTrafo(pointSet).should.deep.equal(resultSet);
   });
