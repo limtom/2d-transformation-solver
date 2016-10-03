@@ -8,7 +8,7 @@ a small node modul to estimate the transformation parameter from two list of com
 ## Usage
 
 ```js
-var trafoSolver= require('../index');
+var trafoSolver= require('2d-transformation-solver');
 
 //input
 var pointSet = {
