@@ -1,6 +1,6 @@
 {
   "name": "2d-transformation-solver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a small node modul to estimate the transformation parameter from two lists of common points (different coordinate systems)",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.0"
+  },
+  "dependencies": {
+    "mathjs": "^3.5.3"
   }
 }
