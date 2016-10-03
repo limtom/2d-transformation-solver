@@ -1,0 +1,25 @@
+{
+  "name": "2d-transformation-solver",
+  "version": "1.0.0",
+  "description": "a small node modul to estimate the transformation parameter from two lists of common points (different coordinate systems)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martiL/2d-transformation-solver.git"
+  },
+  "keywords": [
+    "transformation",
+    "math",
+    "geodetic",
+    "geodesy"
+  ],
+  "author": "Martin Lux <martiluax@gmail.com> (https://github.com/martiL)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martiL/2d-transformation-solver/issues"
+  },
+  "homepage": "https://github.com/martiL/2d-transformation-solver#readme"
+}
