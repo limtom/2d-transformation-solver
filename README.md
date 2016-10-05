@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/martiL/2d-transformation-solver.svg?branch=master)](https://travis-ci.org/martiL/2d-transformation-solver)
+
 # 2d-transformation-solver
 a small node modul to estimate the transformation parameter from two list of common points (different coordinate systems)
 
