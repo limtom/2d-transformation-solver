@@ -4,7 +4,7 @@
   "description": "a small node modul to estimate the transformation parameter from two lists of common points (different coordinate systems)",
   "main": "index.js",
   "scripts": {
-    "test": "nyc ./node_modules/.bin/mocha --reporter spec",
+    "test": "nyc --reporter=html --reporter=text mocha",
     "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
