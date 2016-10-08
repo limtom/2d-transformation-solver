@@ -70,8 +70,8 @@ module.exports = {
     var resultSet = {
       'tx': uVector[2],
       'ty': uVector[3],
-      'm': scale,
-      'alpha': rotation,
+      'scale': scale,
+      'rotation': rotation,
       'stdDev': stdDev
     }
 

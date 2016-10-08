@@ -28,13 +28,13 @@ var pointSet = {
 var resultSet = trafoSolver.estimate2DTrafo(pointSet);
 
 console.log(resultSet);
-  /*resultSet = {
-    'tx': 1.0,
-    'ty': 1.0,
-    'm': 0.9999999999999991,
-    'alpha': -4.44089209850063e-16,
-    'stdDev': 7.444291678311382e-15
-  }*/
+    /*var resultSet = {
+      'tx': 1.0,
+      'ty': 1.0,
+      'scale': 0.9999999999999991,
+      'rotation': -4.44089209850063e-16,
+      'stdDev': 7.444291678311382e-15
+    }*/
 ```
 
 ## Tests
