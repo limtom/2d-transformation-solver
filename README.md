@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/martiL/2d-transformation-solver.svg?branch=master)](https://travis-ci.org/martiL/2d-transformation-solver)
+[![Coverage Status](https://coveralls.io/repos/github/martiL/2d-transformation-solver/badge.svg?branch=master)](https://coveralls.io/github/martiL/2d-transformation-solver?branch=master)
 
 # 2d-transformation-solver
 a small node modul to estimate the transformation parameter from two list of common points (different coordinate systems)
